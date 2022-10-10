@@ -1,0 +1,14 @@
+.carddinamics {
+    display: flex;
+    flex-direction: column;
+    
+    margin: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background: #fdfafa;
+    position: relative;
+    padding: 1.8rem;
+    border: 2px solid #c3c6ce;
+    transition: 0.5s ease-out;
+    overflow: visible;
+   }
